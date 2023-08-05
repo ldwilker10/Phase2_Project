@@ -53,7 +53,7 @@ Final columns/features used include:
 ## Modeling 
 
 Distribution of Sale Prices
-![Price_histogram](Images/Price_histogram.png)
+![Price_histogram](Price_histogram.png)
 
 
 

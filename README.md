@@ -55,6 +55,8 @@ Final columns/features used include:
 Distribution of Sale Prices
 ![Price_histogram](Price_histogram.png)
 
+Scatter plot showing relationship between Sale Price and Square Foot of Living Space
+![sqft_living_scatter](sqft_living_scatter.png)
 
 
 

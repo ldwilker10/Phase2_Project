@@ -100,8 +100,8 @@ While the model is useful to getting a representation of which features are impa
 
 ## Repository Structure
 
-├── Images
-├── .gitignore
-├── Home_Price_Final_Notebook.ipynb
-├── KC_Housing_Prices_Presentation_Slides.pdf
-└── README.md
+├── Images                                                                                                                       
+├── .gitignore                                                                                                                   
+├── Home_Price_Final_Notebook.ipynb                                                                                             
+├── KC_Housing_Prices_Presentation_Slides.pdf                                                                                   
+└── README.md                                                                                                                    

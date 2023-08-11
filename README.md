@@ -6,7 +6,7 @@
 
 ## Project Overview
 
-Using housing price data from King County, I sought to explore what housing characteristics have the biggest infleunce on the price of a home in King County. Using linear regression, the aim is to take these housing characteristics and build a model to accurately predict housing prices based on these housing features. 
+Using housing price data from King County, I sought to explore what housing characteristics have the biggest influence on the price of a home in King County. Using linear regression, the aim is to take these housing characteristics and build a model to accurately predict housing prices based on these housing features. 
 
 ## Business Problem/Stakeholder
 
@@ -84,7 +84,7 @@ After analysis of the data and regression models, the final model (model 6) sugg
 
 - Overall Condition: I recommend homeowners consider the condition of their home. Making small needed repairs and resolving any maintenance issues can increase the value of their home. If the condition rating improves by one category/ levels up one rating on overall condition, there is an associated increase of about 4.92% in average price.
 
-- Square Feet of Living Space: I recommend homeowners also focus on increasing the overall square footage of living space. For each 1 square foot increase, there is a 0.02% increase in average price. If that is scaled out to an increase of 1000 sqaure feet, then the math calculates out to an approximate 20% increase in average home price.
+- Square Feet of Living Space: I recommend homeowners also focus on increasing the overall square footage of living space. For each 1 square foot increase, there is a 0.02% increase in average price. If that is scaled out to an increase of 1000 square feet, then the math calculates out to an approximate 20% increase in average home price.
 
 - Grade: If homeowners are planning to increase square footage and additional construction is needed, then consider hiring a high quality contractor and invest in high quality materials so that the grade level can be optimized. For each increase in grade level, there is an associated increase of ~ 21.6% in average price.
 

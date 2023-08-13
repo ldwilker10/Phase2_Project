@@ -82,9 +82,12 @@ The log transformed model has an MAE of 0.2872 and MSE of 0.4099.
 
 After analysis of the data and regression models, the final model (model 6) suggests that the main features in increasing a home's price per unit are grade and if the house is waterfront or not. When looking at grade, this refers to the construction quality of the house which includes the types of materials used and the quality of the workmanship. Buildings with higher grade typically cost more to build and typically command a higher value. Now changing the waterfront feature is not practically feasible so this would not be a viable feature to really focus on for individuals looking to sale their current home, but is something to keep in mind if their home is waterfront. So with that said, let's look at the features that would be feasible to change to increase the value of the home:
 
+
 - Overall Condition: I recommend homeowners consider the condition of their home. Making small needed repairs and resolving any maintenance issues can increase the value of their home. If the condition rating improves by one category/ levels up one rating on overall condition, there is an associated increase of about 4.92% in average price.
 
+
 - Square Feet of Living Space: I recommend homeowners also focus on increasing the overall square footage of living space. For each 1 square foot increase, there is a 0.02% increase in average price. If that is scaled out to an increase of 1000 square feet, then the math calculates out to an approximate 20% increase in average home price.
+
 
 - Grade: If homeowners are planning to increase square footage and additional construction is needed, then consider hiring a high quality contractor and invest in high quality materials so that the grade level can be optimized. For each increase in grade level, there is an associated increase of ~ 21.6% in average price.
 
@@ -95,7 +98,11 @@ While the model is useful to getting a representation of which features are impa
 
 - The final R-Squared value is 0.503 which suggests that approximately 50.3% of the variance in the log- transformed "price" variable can be explained by the independent variables in the model. Ideally we would want this to be higher. 
 
-- There are other variables and factors of influnece that could be explored in further detail such as location and time of year sold. Considerations in these areas could be zipcode of homes, proximity in the state and which month is more ideal for selling a home. 
+
+- Columns were eliminated from the dataset such as lat, long, address and others which could be factors that could be influencing price. 
+
+
+- There are other variables and factors of influence that could be explored in further detail such as location and time of year sold. Considerations in these areas could be zipcode of homes, proximity in the state and which month is more ideal for selling a home. 
 
 
 ## Repository Structure

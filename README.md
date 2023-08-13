@@ -1,6 +1,6 @@
 # King County Housing Prices: Phase2_Project
 
-![home_sale](Images/for_sale.jpeg)
+![home_sale](https://github.com/ldwilker10/Phase2_Project/blob/main/Images%20/for_sale.jpeg)
 
 
 #### Project by: Lucas Wilkerson

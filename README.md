@@ -109,6 +109,6 @@ While the model is useful to getting a representation of which features are impa
 
 ├── Images                                                                                                                       
 ├── .gitignore                                                                                                                   
-├── Home_Price_Final_Notebook.ipynb                                                                                             
-├── KC_Housing_Prices_Presentation_Slides.pdf                                                                                   
+├── [Home_Price_Final_Notebook.ipynb](https://github.com/ldwilker10/Phase2_Project/blob/main/Home_Price_Final_Notebook.ipynb)   
+├── [KC_Housing_Prices_Presentation_Slides.pdf](https://github.com/ldwilker10/Phase2_Project/blob/main/KC_Housing_Prices_Presentation_Slides.pdf)                              
 └── README.md                                                                                                                    

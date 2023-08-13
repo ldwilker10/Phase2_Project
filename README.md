@@ -55,21 +55,21 @@ Final columns/features used include:
 ## Modeling 
 
 Distribution of Sale Prices
-![Price_histogram](Price_histogram.png)
+![Price_histogram](https://github.com/ldwilker10/Phase2_Project/blob/main/Images%20/Price_histogram.png)
 
 Scatter plot showing relationship between Sale Price and Square Foot of Living Space
-![sqft_living_scatter](sqft_living_scatter.png)
+![sqft_living_scatter](https://github.com/ldwilker10/Phase2_Project/blob/main/Images%20/sqft_living_scatter.png)
 
 
 ## Regression Results 
 
 For regression, I ran a total of 6 models. The baseline model was built around one independent variable, sqft_living, and the dependent variable price. The initial R-Squared value was 0.375. Upong going through a total of 6 iterations, the final model showed the best performance with an R-Squared value of 0.503. 
 
-![Model6_reg_results](Model6_reg_results.png)
+![Model6_reg_results](https://github.com/ldwilker10/Phase2_Project/blob/main/Images%20/Model6_reg_results.png)
 
 The final model included 17 independent variables along with the dependent variable of price. Within this model, the price variable was log transformed to improve the results of the model. You can see by the distribution below, applying a log to price lead to a more normal distribution.
 
-![prices_log_dist](prices_log_dist.png)
+![prices_log_dist](https://github.com/ldwilker10/Phase2_Project/blob/main/Images%20/prices_log_dist.png)
 
 With the sixth model which happened to be the highest performing model, the R-squared value is 0.503, suggesting that approximately 50.3% of the variance in the log- transformed"price" variable can be explained by the independent variables in the model. The F-statistic is 1791, and the associated p-value (Prob (F-statistic)) is very close to zero (0.00) which indicates that the model is statistically significant and performs better than a model with no predictors.
 
@@ -109,7 +109,8 @@ While the model is useful to getting a representation of which features are impa
 
 ## Repository Structure
 
-├── Images                                                                                                                       
+├── Images    
+├── Data   
 ├── .gitignore                                                                                                                   
 ├── [Home_Price_Final_Notebook.ipynb](https://github.com/ldwilker10/Phase2_Project/blob/main/Home_Price_Final_Notebook.ipynb)   
 ├── [KC_Housing_Prices_Presentation_Slides.pdf](https://github.com/ldwilker10/Phase2_Project/blob/main/KC_Housing_Prices_Presentation_Slides.pdf)       
